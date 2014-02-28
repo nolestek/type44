@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="selections">
+        <item>See Most Recent Workouts</item>
+        <item>Search Past Workouts</item>
+        <item>Visit Our Facebook Page</item>
+        <item>Log New Workout</item>
+    </string-array>
+</resources>
